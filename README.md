@@ -158,26 +158,8 @@ Centralized error handling with custom ApiError and ApiResponse utilities.
 ### Async Operations
 Proper async/await implementation with error handling using asyncHandler utility.
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Bug Reports & Feature Requests
-
-If you encounter any bugs or have feature requests, please create an issue in the [GitHub Issues](https://github.com/Yuno3848/vtube/issues) section.
-
-## 📞 Contact
-
-- GitHub: [@Yuno3848](https://github.com/Yuno3848)
-- Project Link: [https://github.com/Yuno3848/vtube](https://github.com/Yuno3848/vtube)
 
 
 
