@@ -85,28 +85,6 @@ cd vtube
 npm install
 ```
 
-### 3. Environment Configuration
-Create a `.env` file in the root directory with the following variables:
-
-```env
-MONGO_URL=your_mongodb_connection_string
-BASE_ORIGIN=http://localhost:8080
-PORT=8080
-CLOUDINARY_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET_KEY=your_cloudinary_secret_key
-ACCESS_TOKEN_EXPIRY=24h
-SECRET_KEY=your_jwt_secret_key
-```
-
-### 4. Start the application
-```bash
-# Development mode
-npm run dev
-
-# Production mode
-npm start
-```
 
 The application will be available at `http://localhost:8080`
 
